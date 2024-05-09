@@ -1,0 +1,52 @@
+/* Titlebar.css */
+
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-top: 0;
+  z-index: 2; /* Ensure the title bar appears above the background */
+  /* color: white; Adjust text color as needed */
+  overflow: hidden; /* Ensure contents don't overflow outside the .app-container */
+}
+
+.logo {
+  display: flex;
+  color: rgb(22, 22, 53);
+  align-items: center; /* Center the logo vertically */
+}
+
+.logo img {
+  height: 80px;
+  width: 80px; /* Adjust logo height as needed */
+}
+
+.userdetails {
+  display: flex;
+  align-items: center;
+  color: rgb(190, 185, 185);
+}
+
+.userdetails h2 {
+  margin-right: 20px; /* Add some space between the username and profile picture */
+}
+
+.userdetails img {
+  height: 30px;
+  border-radius: 50%; /* Adjust profile picture height as needed */
+}
+
+.logout-button {
+  height: 29px;
+  border-radius: 5px;
+  background-color: aliceblue;
+  color: blue;
+  padding: 0 10px; /* Add padding to the logout button */
+}
+
+/* Add any additional styles as needed */

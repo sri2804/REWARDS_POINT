@@ -1,0 +1,22 @@
+.nav{
+    display: block;
+    justify-content: space-between;
+}
+.nav ul{
+    list-style-type: none;
+}
+
+.nav a{
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    font-size: larger;
+    font-weight: bolder;
+    color:white;
+    justify-content: space-between;
+}
+
+.nav li{
+    list-style-type: none;
+    display: inline-block;
+}

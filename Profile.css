@@ -1,0 +1,42 @@
+.profile-card {
+  width: 400px;
+  margin: 20px auto; /* Added margin for padding space */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card-content {
+  padding: 20px; /* Add padding to the card content */
+}
+
+.user-name {
+  font-size: 24px;
+  color: darkblue;
+  margin-bottom: 20px;
+}
+
+.user-stats {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user-stat {
+  margin-right: 20px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.stat-label {
+  font-weight: bold;
+  margin-right: 5px;
+  color: #666;
+  min-width: 120px; /* Adjust the width as needed */
+}
+
+.stat-value {
+  color: darkblue;
+}
+
+.year-value {
+  color: #4CAF50; /* Green color for the year value */
+}

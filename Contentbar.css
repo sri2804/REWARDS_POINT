@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    width:100%;
+    z-index: 1;
+    position:relative;
+}
+.Profile{
+    display: flex;
+    font-size: medium;
+    font-weight: 300;
+    width:25%;
+    padding: 20px;
+    margin-left:20px;
+    /* background-color: aliceblue; */
+    border-radius: 5px;
+ 
+}
+.visualisation{
+    display: flex;
+}
+.animation{
+    display: flex;
+}

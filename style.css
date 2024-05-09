@@ -1,0 +1,103 @@
+/* Profile.css */
+.profile {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .profile p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Tasks.css */
+  .tasks {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tasks h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .tasks ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tasks li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Calendar.css */
+  .calendar {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .calendar h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .calendar p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .calendar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .calendar li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Notifications.css */
+  .notifications {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .notifications h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .notifications p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .notifications ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .notifications li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
